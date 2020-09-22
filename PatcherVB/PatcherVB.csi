@@ -1,0 +1,7 @@
+[History]
+B0=PatcherVB/Form1
+B1=PatcherVB/Form1/PatchFile
+B2=PatcherVB/Form1/Form_Load
+B3=PatcherVB/Form1/cmdRun_Click
+B4=PatcherVB/Form1/cmdOpen_Click
+B5=PatcherVB/Form1/cmdAbout_Click
